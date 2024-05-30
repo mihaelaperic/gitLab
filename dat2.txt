@@ -1,2 +1,1 @@
-ovo je promjena u dat2.txt
-to je sve :)
+novi sadrzaj
